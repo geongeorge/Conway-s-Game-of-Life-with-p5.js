@@ -1,6 +1,5 @@
 
 # Conway's Game of life
-======================
 
 ## Using P5.js
 
